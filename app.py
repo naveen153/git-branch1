@@ -1,4 +1,4 @@
-import boto3
+import boto4
 
 ec2 = boto3.client('ec2')
 
